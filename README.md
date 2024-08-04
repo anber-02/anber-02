@@ -1,13 +1,14 @@
-<h1 align="center">Hola 👋, Yo soy Anberto</h1>
+<h1 align="center">Hola 👋, Soy Anberto</h1>
 <h3 align="center">Desarrollador de software de mexico</h3>
 
 - 👨‍💻 Desarrollador apasionado por aprender.
 - 📫 Puedes contactarme en newprogramer@gmail.com.
 
 
-
+<div style="display:flex">
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=anber-02&show_icons=true&theme=radical)](https://github.com/anber-02)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anber-02&layout=compact&theme=radical)](https://github.com/anber-02)
+</div>
 
 ## 🏆 Resumen del Perfil
 
