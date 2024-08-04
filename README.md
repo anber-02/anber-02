@@ -5,10 +5,10 @@
 - 📫 Puedes contactarme en newprogramer@gmail.com.
 
 
-<div style="display:flex">
+
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=anber-02&show_icons=true&theme=radical)](https://github.com/anber-02)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anber-02&layout=compact&theme=radical)](https://github.com/anber-02)
-</div>
+
 
 ## 🏆 Resumen del Perfil
 
