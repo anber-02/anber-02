@@ -10,7 +10,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anber-02&layout=compact&theme=radical)](https://github.com/anber-02)
 
 
-## 🏆 Resumen del Perfil
+<!--## 🏆 Resumen del Perfil -->
 <!---
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anber-02&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anber-02&theme=default)
